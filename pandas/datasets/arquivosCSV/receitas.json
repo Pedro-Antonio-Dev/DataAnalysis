@@ -1,0 +1,77 @@
+{
+    "receitas": [
+        {
+            "titulo": "Bolo de Chocolate",
+            "tempo_preparo": "45 Minutos",
+            "porcoes": 8,
+            "ingredientes": [
+                {
+                    "ingrediente": "Farinha de Trigo",
+                    "Quantidade": "2 xicaras"
+                },
+                {
+                    "ingrediente": "Acucar",
+                    "Quantidade": "1 xicara"
+                },
+                {
+                    "ingrediente": "Ovos",
+                    "Quantidade": "3 xicaras"
+                },
+                {
+                    "ingrediente": "Leite",
+                    "Quantidade": "1 xicara"
+                },
+                {
+                    "ingrediente": "Manteiga",
+                    "Quantidade": "1/2 xicara"
+                }
+            ]
+        },
+        {
+            "titulo": "Salada",
+            "tempo_preparo": "20 Minutos",
+            "porcoes": 4,
+            "ingredientes": [
+                {
+                    "ingrediente": "Alface Romana",
+                    "Quantidade": "1 cabeca"
+                },
+                {
+                    "ingrediente": "Croutons",
+                    "Quantidade": "1 xicara"
+                },
+                {
+                    "ingrediente": "Queijo Parmesao",
+                    "Quantidade": "1/2 xicara"
+                },
+                {
+                    "ingrediente": "Molho",
+                    "Quantidade": "1/4 xicara"
+                }
+            ]
+        },
+        {
+            "titulo": "Salada Familia",
+            "tempo_preparo": "40 Minutos",
+            "porcoes": 8,
+            "ingredientes": [
+                {
+                    "ingrediente": "Alface Romana",
+                    "Quantidade": "2 cabeca"
+                },
+                {
+                    "ingrediente": "Croutons",
+                    "Quantidade": "2 xicara"
+                },
+                {
+                    "ingrediente": "Queijo Parmesao",
+                    "Quantidade": "1 xicara"
+                },
+                {
+                    "ingrediente": "Molho",
+                    "Quantidade": "1/2 xicara"
+                }
+            ]
+        }
+    ]
+}
