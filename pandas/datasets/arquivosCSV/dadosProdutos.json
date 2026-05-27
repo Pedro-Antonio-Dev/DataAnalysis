@@ -1,6 +1,4 @@
 {
-   "loja": "TechStore",
-   "data_exportacao": "2026-05-25",
    "produtos": [
       {
          "id": 1,
@@ -49,32 +47,6 @@
             "nome": "Samsung",
             "pais": "Coreia do Sul"
          }
-      }
-   ],
-   "vendas": [
-      {
-         "pedido_id": 1001,
-         "cliente": "Carlos",
-         "produto_id": 1,
-         "quantidade": 1,
-         "valor_total": 4500.9,
-         "forma_pagamento": "Cartao"
-      },
-      {
-         "pedido_id": 1002,
-         "cliente": "Ana",
-         "produto_id": 2,
-         "quantidade": 2,
-         "valor_total": 241.0,
-         "forma_pagamento": "Pix"
-      },
-      {
-         "pedido_id": 1003,
-         "cliente": "Marina",
-         "produto_id": 4,
-         "quantidade": 1,
-         "valor_total": 1500.0,
-         "forma_pagamento": "Boleto"
       }
    ]
 }
