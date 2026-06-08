@@ -1,0 +1,8 @@
+﻿ID,Produto,Categoria,Preco,Quantidade
+1,Notebook,Eletrônicos,3500,5
+2,Mouse,Eletrônicos,80,30
+3,Teclado,Eletrônicos,150,20
+4,Cadeira,Móveis,600,10
+5,Mesa,Móveis,900,7
+6,Livro Python,Livros,120,15
+7,Livro SQL,Livros,100,12
